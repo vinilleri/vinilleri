@@ -5,7 +5,7 @@
 ## Main Project
 
 <p align="center">
-  <img src="./assets/macroflow.svg" width="850">
+  <img src="./assets/macroflow.svg" width="850" href = "https://github.com/vinilleri/MacroFlow">
 </p>
 
 ## Featured Projects
