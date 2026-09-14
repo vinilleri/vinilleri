@@ -1,4 +1,37 @@
-# Vinícius Coelho
+<svg width="900" height="300" viewBox="0 0 900 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="900" height="300" rx="16" fill="#111714"/>
+
+  <!-- Window buttons -->
+  <circle cx="28" cy="28" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="28" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="28" r="6" fill="#27c93f"/>
+
+  <!-- Terminal text -->
+  <g font-family="monospace" font-size="18" fill="#d8e6dc">
+
+    <text x="30" y="75">$ whoami</text>
+
+    <text x="30" y="105" fill="#8fba91">
+      vinicius-coelho
+    </text>
+
+    <text x="30" y="150">$ role</text>
+
+    <text x="30" y="180">
+      software development student
+    </text>
+
+    <text x="30" y="225">$ focus</text>
+
+    <text x="30" y="255">
+      backend · java · spring boot
+    </text>
+
+  </g>
+
+</svg>
 
 I'm a software development student focused on backend development with Java and Spring Boot.
 
