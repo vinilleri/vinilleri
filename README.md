@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Vinícius:
 I'm a software development student focused on backend development with Java and Spring Boot.<br>
 
 
