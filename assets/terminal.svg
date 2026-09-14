@@ -1,34 +1,193 @@
-<svg width="900" height="300" viewBox="0 0 900 300"
-     xmlns="http://www.w3.org/2000/svg">
+<svg
+    width="900"
+    height="320"
+    viewBox="0 0 900 320"
+    xmlns="http://www.w3.org/2000/svg"
+ xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0MDcyODc5Yy0wODlhLTQ5YjYtOTQ3ZS02ZGM1YzQyODlhNzcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHtnsji8VkSbkfvU3eg/5UoAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxOWU5MTE4NC03ZDcyLTQ5ZTUtYjAzZi0xMWZkZmIwZDkxMzZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoYFfhZIGktImLhsEsXIc2ZAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggFtZNzjRdQHlfA0ZG5EPJydsNxkpCLqY24tCSNw3bRPSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaO6EGqhulfIc5LziXjnuBVYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCjDwbZ7RvAqA4sPOBMoj0toVyl6iWT4RRmf6gLwsv3VmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBinZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjQwNzI4NzljLTA4OWEtNDliNi05NDdlLTZkYzVjNDI4OWE3Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNkZmFjOTBmLTUwMjItNDM4Zi1hYmE3LTBmODcwMzZkNTZhMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAW1k3ONF1AeV8DRkbkQ8nJ2w3GSkIupjbi0JI3DdtE9KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggnaz3vZA1OklaNJC7X6l2qulaCyv6NxmMZK23o86EA5KiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggbk4YwhBEdQnw72WPxvFVrPWb6PfmZKZ+UScP0A0FQnh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJ3k0VY21t+t4JKGxSoJhcDm5Y1PwdZ1DM0OBYlAwrn4ybwtJk2LdQSw2kpwyLq9yeUyY7d965C6uOqWGhErUZQ=</c2pa:manifest></metadata>
 
-  <rect width="900" height="300" rx="16" fill="#111714"/>
+    <!-- =========================
+         DEFINIÇÕES
+         Cada linha tem seu próprio clipPath que "revela" o texto
+         da esquerda pra direita, simulando digitação.
+    ========================== -->
+    <defs>
+<!-- $ whoami -->
+<clipPath id="clipL1">
+    <rect x="30" y="74" width="0" height="24">
+        <animate
+            attributeName="width"
+            from="0"
+            to="100"
+            dur="0.72s"
+            begin="0.4s"
+            fill="freeze"
+        />
+    </rect>
+</clipPath>
 
-  <!-- Window buttons -->
-  <circle cx="28" cy="28" r="6" fill="#ff5f56"/>
-  <circle cx="50" cy="28" r="6" fill="#ffbd2e"/>
-  <circle cx="72" cy="28" r="6" fill="#27c93f"/>
+<!-- vinicius-coelho -->
+<clipPath id="clipL2">
+    <rect x="30" y="112" width="0" height="24">
+        <animate
+            attributeName="width"
+            from="0"
+            to="176"
+            dur="1.35s"
+            begin="1.37s"
+            fill="freeze"
+        />
+    </rect>
+</clipPath>
 
-  <!-- Terminal text -->
-  <g font-family="monospace" font-size="18" fill="#d8e6dc">
+<!-- $ role -->
+<clipPath id="clipL3">
+    <rect x="30" y="150" width="0" height="24">
+        <animate
+            attributeName="width"
+            from="0"
+            to="79"
+            dur="0.54s"
+            begin="3.17s"
+            fill="freeze"
+        />
+    </rect>
+</clipPath>
 
-    <text x="30" y="75">$ whoami</text>
+<!-- software development student -->
+<clipPath id="clipL4">
+    <rect x="30" y="188" width="0" height="24">
+        <animate
+            attributeName="width"
+            from="0"
+            to="327"
+            dur="2.61s"
+            begin="3.96s"
+            fill="freeze"
+        />
+    </rect>
+</clipPath>
 
-    <text x="30" y="105" fill="#8fba91">
-      vinicius-coelho
+<!-- $ focus -->
+<clipPath id="clipL5">
+    <rect x="30" y="226" width="0" height="24">
+        <animate
+            attributeName="width"
+            from="0"
+            to="90"
+            dur="0.63s"
+            begin="7.02s"
+            fill="freeze"
+        />
+    </rect>
+</clipPath>
+
+<!-- backend · java · spring boot -->
+<clipPath id="clipL6">
+    <rect x="30" y="264" width="0" height="24">
+        <animate
+            attributeName="width"
+            from="0"
+            to="327"
+            dur="2.61s"
+            begin="7.90s"
+            fill="freeze"
+        />
+    </rect>
+</clipPath>
+
+    </defs>
+
+
+    <!-- =========================
+         TERMINAL
+    ========================== -->
+
+    <rect width="900" height="320" rx="16" fill="#111714" />
+
+    <!-- Borda -->
+    <rect x="1" y="1" width="898" height="318" rx="16" fill="none" stroke="#26332b" />
+
+
+    <!-- =========================
+         BARRA SUPERIOR
+    ========================== -->
+
+    <rect width="900" height="52" rx="16" fill="#171e1a" />
+
+    <circle cx="28" cy="26" r="6" fill="#ff5f56" />
+    <circle cx="50" cy="26" r="6" fill="#ffbd2e" />
+    <circle cx="72" cy="26" r="6" fill="#27c93f" />
+
+    <text x="450" y="31" text-anchor="middle" font-family="monospace" font-size="13" fill="#6f7d73">
+        vinicius@github: ~
     </text>
 
-    <text x="30" y="150">$ role</text>
 
-    <text x="30" y="180">
-      software development student
-    </text>
+    <!-- =========================
+         CONTEÚDO DO TERMINAL
+    ========================== -->
 
-    <text x="30" y="225">$ focus</text>
+    <g font-family="monospace" font-size="18">
 
-    <text x="30" y="255">
-      backend · java · spring boot
-    </text>
+        <!-- $ whoami -->
+        <text x="30" y="90" fill="#8fba91" textLength="100" lengthAdjust="spacingAndGlyphs" clip-path="url(#clipL1)">$ whoami</text>
 
-  </g>
+        <!-- vinicius-coelho -->
+        <text x="30" y="128" fill="#d8e6dc" textLength="176" lengthAdjust="spacingAndGlyphs" clip-path="url(#clipL2)">vinicius-coelho</text>
+
+        <!-- $ role -->
+        <text x="30" y="166" fill="#8fba91" textLength="79" lengthAdjust="spacingAndGlyphs" clip-path="url(#clipL3)">$ role</text>
+
+        <!-- software development student -->
+        <text x="30" y="204" fill="#d8e6dc" textLength="327" lengthAdjust="spacingAndGlyphs" clip-path="url(#clipL4)">software development student</text>
+
+        <!-- $ focus -->
+        <text x="30" y="242" fill="#8fba91" textLength="90" lengthAdjust="spacingAndGlyphs" clip-path="url(#clipL5)">$ focus</text>
+
+        <!-- backend · java · spring boot -->
+        <text x="30" y="280" fill="#d8e6dc" textLength="327" lengthAdjust="spacingAndGlyphs" clip-path="url(#clipL6)">backend · java · spring boot</text>
+
+    </g>
+
+
+    <!-- =========================
+         CURSOR
+         Um único cursor que se move junto com cada linha sendo
+         digitada e pula para a linha seguinte no momento certo.
+    ========================== -->
+
+    <rect id="cursor" x="30" y="74" width="10" height="22" fill="#8fba91">
+
+        <!-- posição Y: salta para a linha atual pouco antes dela começar a digitar -->
+        <set attributeName="y" to="74"  begin="0s" />
+        <set attributeName="y" to="112" begin="1.37s" />
+        <set attributeName="y" to="150" begin="3.17s" />
+        <set attributeName="y" to="188" begin="3.96s" />
+        <set attributeName="y" to="226" begin="7.02s" />
+        <set attributeName="y" to="264" begin="7.90s" />
+
+        <!-- posição X: reseta para o início da linha, depois acompanha a digitação -->
+        <set attributeName="x" to="30" begin="0s" />
+        <animate attributeName="x" from="30" to="136" dur="0.72s" begin="0.4s"  fill="freeze" />
+
+        <set attributeName="x" to="30" begin="1.37s" />
+        <animate attributeName="x" from="30" to="212" dur="1.35s" begin="1.37s" fill="freeze" />
+
+        <set attributeName="x" to="30" begin="3.17s" />
+        <animate attributeName="x" from="30" to="115" dur="0.54s" begin="3.17s" fill="freeze" />
+
+        <set attributeName="x" to="30" begin="3.96s" />
+        <animate attributeName="x" from="30" to="363" dur="2.61s" begin="3.96s" fill="freeze" />
+
+        <set attributeName="x" to="30" begin="7.02s" />
+        <animate attributeName="x" from="30" to="126" dur="0.63s" begin="7.02s" fill="freeze" />
+
+        <set attributeName="x" to="30" begin="7.90s" />
+        <animate attributeName="x" from="30" to="363" dur="2.61s" begin="7.90s" fill="freeze" />
+
+        <!-- piscar continuamente -->
+        <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="0s" repeatCount="indefinite" />
+
+    </rect>
 
 </svg>
