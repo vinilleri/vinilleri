@@ -8,7 +8,7 @@ I'm a software development student focused on backend development with Java and 
 <tr>
 <td width="50%" align="center">
 
-<img src="./assets/macroflow.png" width="90">
+<img src="./assets/icon192.png" width="90">
 
 ### MacroFlow
 
@@ -16,7 +16,7 @@ Nutrition tracking application with AI integration.
 
 `Java` `Spring Boot` `PostgreSQL` `Spring AI`
 
-<a href="https://github.com/vinilleri/icon192.png">View project →</a>
+<a href="https://github.com/vinilleri/MacroFlow">View project →</a>
 
 </td>
 
@@ -30,7 +30,7 @@ Autonomous drone project focused on navigation and algorithms.
 
 `Java` `Algorithms`
 
-<a href="SEU_LINK_AQUI">View project →</a>
+<a href="https://github.com/vinilleri/Drone-Navigation-Api">View project →</a>
 
 </td>
 </tr>
@@ -46,7 +46,7 @@ Wearable project combining software and hardware.
 
 `Java` `Spring Boot` `PostgreSQL`
 
-<a href="SEU_LINK_AQUI">View project →</a>
+<a href="https://github.com/vinilleri/Wearable-API">View project →</a>
 
 </td>
 </tr>
