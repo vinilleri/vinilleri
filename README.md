@@ -1,58 +1,63 @@
 <p align="center">
   <img src="./assets/terminal.svg" width="850">
 </p>
-I'm a software development student focused on backend development with Java and Spring Boot.
+
+## Main Project
+
+<p align="center">
+  <img src="./assets/macroflow.svg" width="850">
+</p>
 
 ## Featured Projects
 
 <table>
 <tr>
-<td width="50%" align="center">
-
-<img src="./assets/icon192.png" width="90">
-
-### MacroFlow
-
-Nutrition tracking application with AI integration.
-
-`Java` `Spring Boot` `PostgreSQL` `Spring AI`
-
-<a href="https://github.com/vinilleri/MacroFlow">View project →</a>
-
-</td>
 
 <td width="50%" align="center">
 
 <img src="./assets/drone.png" width="90">
 
-### Drone
+<h3>Drone</h3>
 
+<p>
 Autonomous drone project focused on navigation and algorithms.
+</p>
 
-`Java` `Algorithms`
+<p>
+<code>Java</code>
+<code>Algorithms</code>
+</p>
 
-<a href="https://github.com/vinilleri/Drone-Navigation-Api">View project →</a>
+<a href="https://github.com/vinilleri/Drone-Navigation-Api">
+  View project →
+</a>
 
 </td>
-</tr>
 
-<tr>
-<td colspan="2" align="center">
+<td width="50%" align="center">
 
 <img src="./assets/wearable.png" width="90">
 
-### Wearable
+<h3>Wearable</h3>
 
+<p>
 Wearable project combining software and hardware.
+</p>
 
-`Java` `Spring Boot` `PostgreSQL`
+<p>
+<code>Java</code>
+<code>Spring Boot</code>
+<code>PostgreSQL</code>
+</p>
 
-<a href="https://github.com/vinilleri/Wearable-API">View project →</a>
+<a href="https://github.com/vinilleri/Wearable-API">
+  View project →
+</a>
 
 </td>
+
 </tr>
 </table>
-
 ## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
